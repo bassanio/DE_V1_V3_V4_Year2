@@ -1,9 +1,9 @@
 # Differential Expression between V1 V3 V4 in Year2 Samples
 a. [Sample Informations](#sample-information)
 
-b. [Gene Filtering Information](#Gene-Filtering)
+b. [Gene Filtering Information](#gene-filtering)
 
-[Session information](#SessionInfo)
+[Session information](#sessionInfo)
 
 ### Sample Information
 Total Samples:114
