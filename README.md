@@ -130,8 +130,8 @@ V1|38
 V3|38
 V4|38
 
-### Gene Filtering 
-==============
+### Gene Filtering
+
 Minimum_Read(s):5
 
 Total Genes|Filtered Genes in 50% of Samples|Minimum 10 Samples in any visit|Minimum 10 samples in every visit|
@@ -141,5 +141,10 @@ Total Genes|Filtered Genes in 50% of Samples|Minimum 10 Samples in any visit|Min
 *For Analysis*:  We use Genes with minimum 5 read count in minimum of 10 Samples in any one of the visit (14,017).
 
 
+### Deseq Analysis Results
+
+***Top 30 Genes based on Normalized counts***
+
+![Top 30 Genes](Deseq2_Filtered_samples_CountMatrix_heatmap.png)
 
 ### SessionInfo
