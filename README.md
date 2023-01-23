@@ -145,6 +145,6 @@ Total Genes|Filtered Genes in 50% of Samples|Minimum 10 Samples in any visit|Min
 
 ***Top 30 Genes based on Normalized counts***
 
-![Top 30 Genes](Deseq2_Filtered_samples_CountMatrix_heatmap.png)
+![Top 30 Genes](plots/Deseq2_Filtered_samples_CountMatrix_heatmap.png)
 
 ### SessionInfo
