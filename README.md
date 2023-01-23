@@ -1,6 +1,8 @@
 # Differential Expression between V1 V3 V4 in Year2 Samples
-
-## Sample Information :
+a. [Sample Informations](#Sample-Information)
+b. [Gene Filtering Information](#Gene-Filtering)
+[Session information](#SessionInfo)
+### Sample Information
 Total Samples:114
 
 ---------------------
@@ -128,15 +130,16 @@ V1|38
 V3|38
 V4|38
 
+### Gene Filtering 
+==============
+Minimum_Read(s):5
 
-
-
-Input:Consolidated_Count.txt
-Output:.//Filter_MimimumRead_5_50_PC_AnyVisit.txt
-Minimum_Read:5
-Minimum %samples in any visit:50
-Mnimum Number of Samples in any Visit:10
-
-Total Genes|Filtered Genes (in 50(%))|Filtered Genes(minimum 10 in any visit)|Filtered Genes(minimum 10 in ALL visit)|
+Total Genes|Filtered Genes in 50% of Samples|Minimum 10 Samples in any visit|Minimum 10 samples in every visit|
 ---|---|---|---|
-60676|11475|14017|10420
+60676|11,475|14,017|10,420
+
+*For Analysis*:  We use Genes with minimum 5 read count in minimum of 10 Samples in any one of the visit (14,017).
+
+
+
+### SessionInfo
