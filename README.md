@@ -5,9 +5,13 @@ b. [Gene Filtering Information](#gene-filtering)
 
 c. [Deseq2 Analysis](#deseq-analysis-results) 
       1. [Filtering Condition](#deseq2-filtering-condition)
+
       2. [SP vs BI](#sp_vs_bi)
+
       3. [AT vs SP](#at_vs_sp)
+
       4. [AT vs BI](#at_vs_bi)
+
 
 [Session information](#sessionInfo)
 
@@ -184,7 +188,19 @@ P-VALUE CUTOFF|LFC CUTOFF|
 ***Top Up and Down Regulated gene SP_vs_BI***
 ![Top UP Down SP_vs_BI](plots/SP_vs_BI_DE.png)
 
-### SP_vs_BI
+### AT_Vs_SP
+
+***MAPlot:***
+![maplot](plots/AT_Vs_SP.png)
+
+***VolcanoPlot: SP_vs_BI*** 
+![Volcanoplot](plots/AT_Vs_SP_Volcano.png)    
+      
+***Top Up and Down Regulated gene***
+![Top UP Down](plots/AT_Vs_SP_DE.png)
+
+
+### AT_vs_BI
 
 ***MAPlot:***
 ![maplot_SP_vs_BI](plots/AT_vs_BI.png)
@@ -194,17 +210,5 @@ P-VALUE CUTOFF|LFC CUTOFF|
       
 ***Top Up and Down Regulated gene***
 ![Top UP Down](plots/AT_vs_BI_DE.png)
-
-
-### AT_Vs_SP
-
-***MAPlot:AT_Vs_SP***
-![maplot_SP_vs_BI](plots/AT_Vs_SP.png)
-
-***VolcanoPlot: SP_vs_BI*** 
-![Volcanoplot](plots/AT_Vs_SP_Volcano.png)    
-      
-***Top Up and Down Regulated gene***
-![Top UP Down](plots/AT_Vs_SP_DE.png)
 
 ### SessionInfo
