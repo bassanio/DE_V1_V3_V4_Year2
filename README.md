@@ -166,14 +166,6 @@ Total Genes|Filtered Genes in 50% of Samples|Minimum 10 Samples in any visit|Min
 
 ![pca](plots/deseq2_Filtered_PCA.png)
 
-
-
-
-P-VALUE CUTOFF|LFC CUTOFF|
-:---:|:---:|
-0.05|+/-0.58|
-
-
 ### PCA Per Contrast
 
 ## Before Infection vs Symptomatic Stage
@@ -184,6 +176,11 @@ P-VALUE CUTOFF|LFC CUTOFF|
 
 ## Before Infection vs After Treatment
 ![BI_AT_PCA](plots/BI_AT_PCA.png)
+
+
+P-VALUE CUTOFF|LFC CUTOFF|
+:---:|:---:|
+0.05|+/-0.58|
 
 
 ### Differential Expression SP-BI
