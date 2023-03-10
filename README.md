@@ -174,6 +174,17 @@ P-VALUE CUTOFF|LFC CUTOFF|
 0.05|+/-0.58|
 
 
+### PCA Per Contrast
+
+## Before Infection vs Symptomatic Stage
+![BI_SP_PCA](plots/BI_SP_PCA.png)
+
+## Symptomatic Stage Vs After Treatment
+![SP_AT_PCA](plots/SP_AT_PCA.png)
+
+## Before Infection vs After Treatment
+![BI_AT_PCA](plots/BI_AT_PCA.png)
+
 
 ### Differential Expression SP-BI
 
@@ -376,14 +387,9 @@ AT-SP
 
 ![maplot](plots/AT_vs_SP_MA.png)
 
-
-
-
 ***VolcanoPlot:***
 
 ![VolcanoPlot](plots/AT_vs_SP_Volcano.png)
-
-
 
 
 ***Top Up and Down Regulated gene:***
